@@ -2,9 +2,9 @@
 
 Our final code combines feature learning (including PCA and k-means..) and LightGBM to train the model and predict the target data. 
 
-Since our dataset is too big to upload, please download our train data and test data here. Put raw data file in ```data``` folder.
+Since our dataset is too big to upload, please download our train data and test data [HERE](https://drive.google.com/drive/folders/1xS0IMsJD8dm8lKYizYs1pVxsSMtC1SrX?usp=sharing). Download our repo and put raw data file in ```data``` folder.
 
-To run our model and see the result, download the repo and run the following command
+To run our model and see the result, please run the following command
 
 ```python 
 python3 model.py
