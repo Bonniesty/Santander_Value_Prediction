@@ -6,7 +6,7 @@ Our submitted code combines Feature Learning (including Principle Components Ana
 Since our dataset is too big to upload, please download our train data and test data [HERE](https://drive.google.com/drive/folders/1xS0IMsJD8dm8lKYizYs1pVxsSMtC1SrX?usp=sharing). Download our repo and put raw data file in ```data``` folder.
 
 ## How to run the code
-To run our model and see the result, please run the following command. Make sure you have defined the directory of the dataset in the code.
+To run our model and see the result, please run the following command. Make sure you have defined the directory of the dataset in the code. You are also required to install some libraries. 
 
 ```python 
 python3 model.py
