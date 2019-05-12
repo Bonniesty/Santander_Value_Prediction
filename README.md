@@ -1,17 +1,18 @@
-# Santander_Value_Prediction
+# Santander Value Prediction
 
-Our final code combines feature learning (including PCA and k-means..) and LightGBM to train the model and predict the target data. 
+## Brief introduction
+Our submitted code combines Feature Learning (including Principle Components Analysis and k-means..) and LightGBM algorithm to train the model and predict the target data. 
 
 Since our dataset is too big to upload, please download our train data and test data [HERE](https://drive.google.com/drive/folders/1xS0IMsJD8dm8lKYizYs1pVxsSMtC1SrX?usp=sharing). Download our repo and put raw data file in ```data``` folder.
 
-To run our model and see the result, please run the following command
+## How to run the code
+To run our model and see the result, please run the following command. Make sure you have defined the directory of the dataset in the code. You are also required to install some libraries. 
 
 ```python 
 python3 model.py
 ```
+## What you will see
+Training result, Graphic Analysis can be found in the console. The code will generate a submission file for prediction result.
 
-Training result, analysis, as well as plots can be found in the console. Submission file is also created.
-
-
-To see the plot of PCA and variance, open the ```Santander_Value_Prediction_Plot.ipynb``` file in notebook and run all the cells.
+To see the plot of PCA and variance, you can open the ```Santander_Value_Prediction_Plot.ipynb``` file in notebook and run all the cells.
 
